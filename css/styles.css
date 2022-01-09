@@ -1,0 +1,33 @@
+.title {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+.link {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+.img {
+    height: auto;
+    width: 600px;
+}
+
+.ul {
+    background-color: blue;
+    color: white;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 30px;
+}
+
+.heading {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
